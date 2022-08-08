@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "发布作品",
+  "usingComponents": {
+    "form-item": "/components/common/form-item",
+    "main-big-button": "/components/common/main-big-button"
+  }
+}

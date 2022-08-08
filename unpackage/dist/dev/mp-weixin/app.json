@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/cate/cate",
+    "pages/my/my",
+    "pages/create/create",
+    "pages/user-video/user-video",
+    "pages/user-fava/user-fava",
+    "pages/user-video-list/user-video-list",
+    "pages/login/login",
+    "pages/user-space/user-space",
+    "pages/detail-video/detail-video",
+    "pages/user-set/user-set",
+    "pages/list/list",
+    "pages/user-follow/user-follow",
+    "pages/user-history/user-history",
+    "pages/search/search"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "在线点播",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "borderStyle": "black",
+    "selectedColor": "#FB7299",
+    "color": "#444444",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabbar/find.png",
+        "selectedIconPath": "static/tabbar/find-selected.png",
+        "text": "发现"
+      },
+      {
+        "pagePath": "pages/cate/cate",
+        "iconPath": "static/tabbar/cate.png",
+        "selectedIconPath": "static/tabbar/cate-selected.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/tabbar/my.png",
+        "selectedIconPath": "static/tabbar/my-selected.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

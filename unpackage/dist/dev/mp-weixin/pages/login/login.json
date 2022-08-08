@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "main-big-button": "/components/common/main-big-button"
+  }
+}

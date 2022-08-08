@@ -1,0 +1,1 @@
+<view><main-big-button bind:click="__e" vue-id="8b08a180-1" data-event-opts="{{[['^click',[['logout']]]]}}" bind:__l="__l" vue-slots="{{['default']}}">退出登录</main-big-button></view>

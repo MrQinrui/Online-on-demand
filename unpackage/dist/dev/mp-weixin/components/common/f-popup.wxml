@@ -1,0 +1,1 @@
+<view><block wx:if="{{status}}"><view><view data-event-opts="{{[['tap',[['hide',['$event']]]]]}}" class="position-fixed top-0 left-0 right-0 bottom-0 animated faster fadeIn" style="background-color:rgba(0,0,0,0.3);z-index:1000;" catchtap="__e"><slot></slot></view></view></block></view>

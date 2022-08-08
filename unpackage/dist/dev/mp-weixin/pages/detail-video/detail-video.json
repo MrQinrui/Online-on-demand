@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "media-list": "/components/common/media-list",
+    "f-popup": "/components/common/f-popup"
+  }
+}

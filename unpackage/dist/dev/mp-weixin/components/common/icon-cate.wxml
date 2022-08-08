@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['open',['$event']]]]]}}" class="icon-cate" bindtap="__e"><image class="bg-light" style="width:70rpx;height:70rpx;" src="{{item.cover}}"></image><text class="text-muted font mt-1">{{item.title}}</text></view>

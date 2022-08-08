@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "历史记录",
+  "usingComponents": {
+    "media-list": "/components/common/media-list",
+    "uni-swipe-action": "/components/uni-ui/uni-swipe-action/uni-swipe-action",
+    "uni-swipe-action-item": "/components/uni-ui/uni-swipe-action-item/uni-swipe-action-item"
+  }
+}

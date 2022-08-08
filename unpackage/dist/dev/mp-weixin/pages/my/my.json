@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "f-list-item": "/components/common/f-list-item",
+    "main-big-button": "/components/common/main-big-button",
+    "f-popup": "/components/common/f-popup"
+  }
+}
